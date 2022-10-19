@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicativoImc</string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+
+    <string name="blank">%d</string>
+    <string name="img_description">%d</string>
+</resources>
